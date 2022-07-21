@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.5.62, for Win64 (AMD64)
 --
--- Host: 116.0.5.202    Database: qerja-test
+-- Database: qerja-test
 -- ------------------------------------------------------
 -- Server version	5.5.5-10.5.8-MariaDB-1:10.5.8+maria~focal
 
